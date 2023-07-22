@@ -47,7 +47,7 @@ First of all you must download this repository from Github as ZIP or clone it.
 
 1. Clone or download as ZIP the repository
    ```sh
-   git clone https://github.com/sanavalos/HolidaysDiscordBot.git
+   git clone https://github.com/sanavalos/Holidays-Discord-Bot.git
    ```
 2. Install NPM packages
    ```sh
