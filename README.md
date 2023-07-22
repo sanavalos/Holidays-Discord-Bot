@@ -31,7 +31,7 @@
 
 ## About The Project
 
-This project is a discord bot that interacts with user's through commands to check multiple holidays for several countries. <br/>
+This project is a discord bot that interacts with user's through commands to check 10 upcoming holidays for several countries. <br/>
 The API to make requests is: https://calendarific.com
 
 ### Built With
@@ -57,6 +57,7 @@ First of all you must download this repository from Github as ZIP or clone it.
    ```sh
    node index.js
    ```
+4. Create .env file in root folder following .env.example
 
 
 ## Usage
@@ -71,6 +72,6 @@ Once the bot is on your server, you can interact with it using the predefined co
 
 Santiago Germán Avalos - santiago.avalos@outlook.com
 
-Github repo: [Holidays Discord Bot](https://github.com/sanavalos/HolidaysDiscordBot)
+Github repo: [Holidays Discord Bot](https://github.com/sanavalos/Holidays-Discord-Bot)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
